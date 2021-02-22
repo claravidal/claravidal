@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.giff" width="250" height="250" />
+<img src="https://unsplash.com/photos/1bTDrEEhqig?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" width="400" height="790" />
 
 # Oi, Eu sou a Clara! :D
 
