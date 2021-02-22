@@ -1,4 +1,3 @@
-<img src="https://unsplash.com/photos/1bTDrEEhqig?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" width="400"/>
 
 # Oi, Eu sou a Clara! :D
 
