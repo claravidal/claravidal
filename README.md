@@ -1,5 +1,9 @@
 
-# Oi, Eu sou a Clara! :D
+<h1 align="center">
+  <img src="https://media.giphy.com/media/xSS0vcjoQM8KY/giphy.gif">
+</h1>
+
+<h2> Oi, Eu sou a Clara! :D </h2>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/claravidal)](https://github.com/claravidal)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clara-vidal-carvalho/)](https://www.linkedin.com/in/clara-vidal-carvalho/)
@@ -7,26 +11,8 @@
 
 
 ### Quem sou eu?
-- Dev backend
-- Mentora
-- Feminista
-- Taurina
-- Lufana viciada em amarelo
-
-
-
-
-<!--
-**claravidal/claravidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Dev backend
+📕 Mentora
+♀ Feminista
+♉ Taurina
+💛 Lufana viciada em amarelo
