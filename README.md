@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/3UtEIg06e3uz6/giphy.gif">
+  <img src="https://media.giphy.com/media/SO4trEzzGYDhC/giphy.gif">
 </h1>
 
 <h2> Oi, Eu sou a Clara! :D </h2>
