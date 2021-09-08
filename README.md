@@ -22,7 +22,7 @@ Durante toda minha trajetória, fui vista como “suporte técnico” na famíli
 
 Iniciei minha transição de carreira participando do Bootcamp da Generation Brasil, que tinha como foco o desenvolvimento web, com o uso das linguagens: Java para back-end e Angular para front-end. Também pude desenvolver minhas softs skills.
 
-Atualmente, sou analista de engenharia de TI no Itaú Unibanco, onde atuo como back-end com o uso de AWS, Java e Spring Boot, entre outros.
+Atualmente, sou analista de engenharia de TI no Itaú Unibanco, onde atuo como back-end com o uso de AWS, Java e Spring Boot, entre outros. Estou cursando uma MBA em Gestão de Projetos (USP/ESALQ) e Pós Graduação em Engenharia de Software (Universidade Cruzeiro do SUL)
 
 No último ano, além de começar minha atuação como mentora para pessoas em transição de carreira e iniciantes na área, tive a oportunidade de me tornar uma das representantes do grupo Gen Girls, que é voltado para a inclusão de mulheres na tecnologia.
 
